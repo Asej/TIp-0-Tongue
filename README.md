@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Team 30: Tip of My Tongue
 
 Please read the [documentation](https://fluffysheep-codeu.github.io/Summer2019-Team30/) for details and setup for this project.
@@ -47,3 +48,7 @@ Please read the [documentation](https://fluffysheep-codeu.github.io/Summer2019-T
 7. Make changes to java files (server work).
 8. Re-compile the server.
 9. Check http://localhost:3000 to see if the server changes worked.
+=======
+# asej.github.io
+# asej.github.io
+>>>>>>> ca129ea7ce21e30e2f23a5e1abc4faa796e6c62d
